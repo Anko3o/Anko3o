@@ -14,6 +14,12 @@
 
 ## 🧰 开源的零件
 
+### ✦ [music-mcp-netease](https://github.com/Anko3o/Music-Mcp-Netease)
+
+一台为人和 AI 一起听歌改造的自部署轻量网易云播放器。
+
+AI 可以搜歌、发可点的歌曲卡和歌词卡、把歌插进播放队列，也能翻批注本、看最近在听什么；播放器这边有网易云账号同步、逐字歌词、MV 画中画和共享歌单。**纯 Python 标准库 + 原生 JS，零依赖，一条命令启动。**
+
 ### ✦ [stardust-spoiler](https://github.com/Anko3o/stardust-spoiler)
 仿 Threads 的**把文字藏起来**效果：隐藏的部分是粒子星尘，点击后文字显现。
 
