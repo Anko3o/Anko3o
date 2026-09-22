@@ -23,7 +23,8 @@ AI 可以搜歌、发可点的歌曲卡和歌词卡、把歌插进播放队列�
 ### ✦ [stardust-spoiler](https://github.com/Anko3o/stardust-spoiler)
 仿 Threads 的**把文字藏起来**效果：隐藏的部分是粒子星尘，点击后文字显现。
 
-单个HTML文件，百来行。零依赖、零安装、零构建，查看其源代码就是全部。
+单个HTML文件，百来行，零依赖、零安装、零构建。
+请把文件里面的代码添加进自建前端。
 
 ### ✦ [anko-ob-original-archive](https://github.com/Anko3o/anko-ob-original-archive)
 给 OmbreBrain 记忆库 做的**原文永存**工具。
